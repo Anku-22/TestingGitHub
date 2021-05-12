@@ -1,5 +1,7 @@
 #!/bin/bash
 
-echo "Date is `date`"
+echo "Script start"
+echo "Script ran on : `date`" >> run.log
+echo "Script Ends"
 exit 0
-this is another commit
+
